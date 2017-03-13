@@ -9,4 +9,4 @@ The problem statement was to:
 - allow users to post and view pictures of the above issues
 - Notify users when the SLA of a problem was over
 
-Built over a course of a week and a half with [CCD-1997](https://github.com/CCD-1997)
+Built over a course of a week and a half with [imtoobose](https://github.com/imtoobose)
