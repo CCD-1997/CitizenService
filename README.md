@@ -10,3 +10,11 @@ The problem statement was to:
 - Notify users when the SLA of a problem was over
 
 Built over a course of a week and a half with [imtoobose](https://github.com/imtoobose)
+
+## Branches
+
+Branch     | Description
+---------- | -----------------------------------------
+master     | tensorflow with django backend -> [here](https://github.com/CCD-1997/TensorflowImageClassification-Server)
+master-tf  | tensorflow integrated inside android App
+
